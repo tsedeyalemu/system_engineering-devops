@@ -1,5 +1,4 @@
 #!/bin/bash
-
 #!/usr/bin/env bash
 # prints the string Best School ten times
 for ((i=1; i <= 10; i++))
